@@ -23,7 +23,7 @@ I worked with Hands On Nashville when they activated Disaster Response Mode for 
 
 The initial data was ten separate Excel spreadsheets collected from various government/relief organizations. Everyone collected slightly different data in slightly different ways. Below you can see the column headers copy-pasted from each file I was working with to get an idea of how varied they were...
 
-![raw data](images/raw_data_headers.png)
+![raw data](images/raw_data_headers.jpg)
 
 The main hurdle at first was cleaning the 10 different data sets. Cleaning issues I had to solve included...
 
@@ -66,7 +66,7 @@ The dashboard includes...
 - A treemap of damage classification that is color coordinated with the points on the map
 - Filters for council district, days since last contacted, and damage classification that interact with both visualizations
 
-![dashboard](images/dashboard.png)
+![dashboard](images/dashboard.jpg)
 
 
 
